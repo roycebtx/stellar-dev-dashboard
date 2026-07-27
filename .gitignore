@@ -10,3 +10,4 @@ coverage/
 reports/
 storybook-static/
 node_modules
+config.bat
