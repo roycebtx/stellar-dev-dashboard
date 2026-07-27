@@ -1,0 +1,18 @@
+{
+  "default_branch": "master",
+  "branches": [
+    "fix/608-intelligent-data-storytelling",
+    "master",
+    "origin"
+  ],
+  "parent": {
+    "fix/608-intelligent-data-storytelling": "master",
+    "master": null,
+    "origin": "master"
+  },
+  "order": [
+    "master",
+    "fix/608-intelligent-data-storytelling",
+    "origin"
+  ]
+}
